@@ -1,3 +1,3 @@
-# Bootstrap Widgets Library fo Axure
+# Bootstrap Widgets Library for Axure
 
 By *M. Valongo *
